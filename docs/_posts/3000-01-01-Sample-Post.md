@@ -6,10 +6,12 @@ title: "SamplePost"
 description: SampleDescription
 categories: misc
 tags: sample-tag
-published: true
+published: false
 ---
 
-`YEAR-MONTH-DAY-title.md`
+*description*
+
+---
 
 ![ImageName]({{site.baseurl}}/assets/images/logo/V.png)
 

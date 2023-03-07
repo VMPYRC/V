@@ -9,7 +9,9 @@ tags: first-post
 
 *This is the very first post !*
 
-Yes, I love & prefer...
+---
+
+## Yes, I love & prefer...
 
 + Theme: High Contrast Dark, Black Main, White Minor, Pink Accent
 + Super simplistic and minimalist style
@@ -18,8 +20,9 @@ Yes, I love & prefer...
 + Lists (can you tell?)
 + the lowercase aesthetic
 
-Some goals...
+---
 
-1. Blog everyday
-2. Remember #1
-3. Continue doing #2
+## Posts may be...
+
++ "Scheduled / queued"
++ Edited frequently
