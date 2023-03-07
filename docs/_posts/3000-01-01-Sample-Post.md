@@ -11,6 +11,6 @@ published: true
 
 `YEAR-MONTH-DAY-title.md`
 
-![ImageName]({{site.baseurl}}/assets/images/Sample.jpg)
+![ImageName]({{site.baseurl}}/assets/images/logo/V.png)
 
 ♡
