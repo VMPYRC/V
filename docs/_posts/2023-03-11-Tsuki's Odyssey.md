@@ -117,7 +117,10 @@ Images found in `V/docs/assets/images/Tsuki's Odyssey/`
 32. Local Bunny And Fox Bond Over Furniture!
 	+ Holding down the phone button can help you quickly open apps!
 	+ Talk to Yori
-33. -
+33. Chi's Book Corner: ANIMAL TWILIGHT
+	+ An epic love story involving bats, wolves and a very lucky girl! So saucy! 10/10!
+	+ Talk to Chi
+34. -
 + ♡
 + ♡
 + ♡
@@ -152,7 +155,6 @@ Images found in `V/docs/assets/images/Tsuki's Odyssey/`
 		+ Beaver on a One Woman Mission to Warm MV Up
 	+ Chi
 		+ Chi's Book Corner: FURRY POTTER
-		+ Chi's Book Corner: ANIMAL TWILIGHT
 		+ Chi's Book Corner: SHERLICK HOLMES
 		+ Chi's Book Corner: CAT IN THE HAT
 		+ How to Make Holiday Rembas
@@ -305,6 +307,9 @@ Images found in `V/docs/assets/images/Tsuki's Odyssey/`
 		+ Event -- Winter
 	+ I Cleaned My House Today! Now, Back To Reading!
 		+ Location -- Chi's House
+	+ I Do Believe This Fierce Blush Tsuki Captured Is Enough Of A Review For The Newest Entry IN The Phantom Sea Series.
+		+ Location -- Chi's House
+    	+ MAYBE? Newspaper: Chi's Book Corner: Animal Twilight
 + miyopi -- Pipi -- she/her
 	+ Chocolate bread makes me soooooo happy! I eat it everyday!! I wish i can eat it for every meal!
 		+ Location -- Yori's General Store
@@ -476,7 +481,6 @@ Images found in `V/docs/assets/images/Tsuki's Odyssey/`
 	+ pier
 	+ afternoon evening -- moca sunset phone
 	+ noodles
-	+ book pink blush
 	+ goat fertilizer in chi's house, come back 1 hr
 	+ halloween
 		+ gummy worms
